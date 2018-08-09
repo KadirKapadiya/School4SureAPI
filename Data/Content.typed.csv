@@ -1,0 +1,2 @@
+PartitionKey,RowKey,Timestamp,ActionURL,ActionURL@type,B64URL,B64URL@type,RawURL,RawURL@type
+UserNames,Advert1,2016-08-23T11:34:00.406Z,GOOGLE_MOBIHUNTER,Edm.String,https://adservapi.blob.core.windows.net/usernames1images/GOOGLE_MOBIHUNTER.txt,Edm.String,https://adservapi.blob.core.windows.net/usernames1images/GOOGLE_MOBIHUNTER.txt,Edm.String

@@ -1,0 +1,2 @@
+PartitionKey,RowKey,Timestamp,DailyViewRequirement,DailyViewRequirement@type,Duration,Duration@type,PolicyDocsUrl,PolicyDocsUrl@type,TermsUrl,TermsUrl@type,Underwriter,Underwriter@type,ViewRequirement,ViewRequirement@type
+UserNames,f83f579c2a9846eaac65c546c706cd67,2016-08-31T11:25:40.131Z,0.2,Edm.String,30,Edm.String,http://test.com/policy,Edm.String,http://test.com,Edm.String,Liberty,Edm.String,50,Edm.String

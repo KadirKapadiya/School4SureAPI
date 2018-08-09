@@ -1,0 +1,3 @@
+PartitionKey,RowKey,Timestamp,Password,Password@type,CreationDate,CreationDate@type
+UserNames,ad4sureapiuser01,2016-06-23T07:42:13.970Z,$2a$05$t2/ABk7IR781Dm7H8aAXYun9zHv6IzCy38O3ZSMsbuvX3qwf5EvNu,Edm.String,2016-06-23T07:42:13.203Z,Edm.DateTime
+UserNames,adservapi02,2017-08-22T15:32:10.679Z,$2a$05$3qAQxWkPBuODd/Wz5/iGq.SMXxZb28xhIUj51RfTsWOcalEE5RtcG,Edm.String,,

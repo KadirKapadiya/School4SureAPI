@@ -1,0 +1,20 @@
+#!/bin/bash
+echo changing folder
+cd /Users/beukesgesin/Desktop/projects/adservapi
+echo adding to repository
+git add .
+echo commiting deployment
+git commit -m "Deployment"
+echo pushing to remote server
+git push azure master
+echo done
+exit;
+
+
+# echo "# School4SureAPI" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git remote add origin https://github.com/KadirKapadiya/School4SureAPI.git
+# git push -u origin master
+

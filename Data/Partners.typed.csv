@@ -1,0 +1,2 @@
+PartitionKey,RowKey,Timestamp,ChannelAPIKey,ChannelAPIKey@type,ChannelDesc,ChannelDesc@type
+Channel,UserNames,2016-08-31T09:43:29.671Z,UserNames,Edm.String,Internal,Edm.String
